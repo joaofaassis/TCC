@@ -5,7 +5,7 @@ Arunesh Mathur, Mihir Kshirsagar, and Jonathan Mayer. 2021. "What Makes a Dark P
 ## 1. Fichamento de Conteúdo
 
 
-O artigo retrata o crescimento da utilização dos *Dark Patterns* e que trabalhos recentes vieram documentando e categorizando essas utilizações.
+O artigo retrata o crescimento da utilização dos *Dark Patterns* e que trabalhos recentes vieram documentando e categorizando essas utilizações. Dentro do artigo, o autor trata sobre o que faz uma interface ser considerada *Dark Pattern* e por que certo *designs* são problematicos para usuários e a sociedade, com isso eles revisaram trabalhos recentes sobre e demonstraram que a literatura não reflete uma preocupação ou definição consistente, mas sim um conjunto de considerações relacionadas.
 
 ## 2. Fichamento Bibliográfico 
 
