@@ -4,19 +4,19 @@ Johanna Gunawan, Amogh Pradeep, David Choffnes, Woodrow Hartzog, and Christo Wil
 
 ## 1. Fichamento de Conteúdo
 
-
-aa
+O artigo realizou um estudo comparativo sobre *dark patterns* em aplicativos móveis, foram selecionados alguns serviços para o estudo sendo o Facebook, Spotify e Wish. 
+O estudo indentifica um padrão de dark pattern inconsistente, pois o design beneficia os objetivos e valores dos designers (ou de seus chefes) em vez de promover o layout com resultados orgânicos. Existem poucas leis que restringem o uso de *dark pattern*, deixando assim o usuário exposto e vulnerável a possíveis manipulações, um dos motivos da existência de poucas leis é o fato da dificuldade em identificar e conceituar o mesmo. O artigo também se aprofunda em como o *dark pattern* prejudica a privacidade online dos usuários. Estudos observacionais de políticas de privacidade analisaram que a ocultação de *hiperlinks*, enquadramento positivo irrealista sobre escolhas de privacidade, ausência de divulgações necessárias para o usuário. Vários estudos observacionais mediram a apresentação e o comportamento de avisos de consentimento de cookies nos principais sites e descobriram que mais de 50% continham padrões escuros. Isso inclui a configuração de cookies de rastreamento nos navegadores das pessoas antes que elas tenham mesmo foi dada a oportunidade de consentir o rastreamento.
 
 ## 2. Fichamento Bibliográfico 
 
 
-* HCI Human–Computer Interaction (Interação Humano-Computador)  interação entre pessoas e computadores (página 1).
-* Individual Autonomy (Autonomia Individual) bem-estar individual do usuário em escolher a melhor decisão por si (página 12).
+* Nudging (Interação Humano-Computador)  interação entre pessoas e computadores (página 3).
+* Paternalistic bem-estar individual do usuário em escolher a melhor decisão por si (página 3).
 * Dark pattern (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
 
 ## 3. Fichamento de Citações 
 
 
-* "A dark pattern that infringes on individual autonomy might modify choice architecture in a way that causes users to make choices that they would not have otherwise selected absent the modified choice architecture"
-* "The choices that benefit the service are feature prominently while the options that benefit the user are typically tucked away behind several clicks or are obscured from view by varying the style and position of the choice"
-* "Dark patterns that are deceptive or information hiding influence user decisions by manipulating the information that is available to to users."
+* "“interface design choices that benefit an online service by coercing, steering, or deceiving users into making decisions that, if fully informed and capable of selecting alternatives, they might not make.”"
+* "Dark patterns can convince users to share personal information when they ordinarily would not, possibly in ways that lead to regret and harm"
+* "online platforms leverage dark patterns in this context to “manipulate us into keeping the data flowing, fueling an information-hungry business mode”"
