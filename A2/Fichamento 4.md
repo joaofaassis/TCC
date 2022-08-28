@@ -17,6 +17,6 @@ O estudo indentifica um padrão de *dark pattern* inconsistente, pois o *design*
 ## 3. Fichamento de Citações 
 
 
-* "“interface design choices that benefit an online service by coercing, steering, or deceiving users into making decisions that, if fully informed and capable of selecting alternatives, they might not make.”"
-* "Dark patterns can convince users to share personal information when they ordinarily would not, possibly in ways that lead to regret and harm"
-* "online platforms leverage dark patterns in this context to “manipulate us into keeping the data flowing, fueling an information-hungry business mode”"
+* _"interface design choices that benefit an online service by coercing, steering, or deceiving users into making decisions that, if fully informed and capable of selecting alternatives, they might not make."_
+* _"Dark patterns can convince users to share personal information when they ordinarily would not, possibly in ways that lead to regret and harm"_
+* -"online platforms leverage dark patterns in this context to “manipulate us into keeping the data flowing, fueling an information-hungry business mode"_
