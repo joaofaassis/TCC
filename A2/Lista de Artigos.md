@@ -78,35 +78,39 @@ Colin M. Gray, Yubo Kou, Bryan Battles, Joseph Hoggatt, and Austin L. Toombs. 20
 	
 ## 07. UI Dark Patterns and Where to Find Them: A Study on Mobile Applications and User Perception 
 Linda Di Geronimo, Larissa Braz, Enrico Fregnan, Fabio Palomba, and Alberto Bacchelli. 2020. "UI Dark Patterns and Where to Find Them: A Study on Mobile Applications and User Perception". In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–14. doi: 10.1145/3313831.3376600.(https://dl.acm.org/doi/10.1145/3313831.3376600)
-
 	
 ## 08. A Comparative Study of Dark Patterns Across Web and Mobile Modalities
 Johanna Gunawan, Amogh Pradeep, David Choffnes, Woodrow Hartzog, and Christo Wilson. 2021. "A Comparative Study of Dark Patterns Across Web and Mobile Modalities". Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 377 (October 2021), 29 pages. doi: 10.1145/3479521.(https://dl.acm.org/doi/10.1145/3479521)
 
-
 ## 09. What Makes a Dark Pattern... Dark? Design Attributes, Normative Considerations, and Measurement Methods
 Arunesh Mathur, Mihir Kshirsagar, and Jonathan Mayer. 2021. "What Makes a Dark Pattern... Dark? Design Attributes, Normative Considerations, and Measurement Methods". In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 360, 1–18. doi: 10.1145/3411764.3445610.(https://dl.acm.org/doi/10.1145/3411764.3445610)
-
 
 ## 10. Ethics-driven Software Architecture Decision Making
 R. Alidoosti, "Ethics-driven Software Architecture Decision Making," 2021 IEEE 18th International Conference on Software Architecture Companion (ICSA-C), 2021, pp. 90-91, doi: 10.1109/ICSA-C52384.2021.00022.(https://ieeexplore.ieee.org/document/9425823)
 
-
 ## 11. Is there a "software engineering ethics"? Comparing commercial and research software engineering
 G. Lee, "Is there a "software engineering ethics"? Comparing commercial and research software engineering," 2021 IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice (SEthics), 2021, pp. 13-17, doi: 10.1109/SEthics52569.2021.00010.(https://ieeexplore.ieee.org/document/9474808)
-
 
 ## 12. Re-Designing Dark Patterns to Improve Privacy
 D. M. Parrilli and R. Hernández-Ramírez, "Re-Designing Dark Patterns to Improve Privacy," 2020 IEEE International Symposium on Technology and Society (ISTAS), 2020, pp. 253-254, doi: 10.1109/ISTAS50296.2020.9462197.(https://ieeexplore.ieee.org/document/9462197)
 
-
 ## 13. Integrating Social Values into Software Design Patterns
 W. Hussain, D. Mougouei and J. Whittle, "Integrating Social Values into Software Design Patterns," 2018 IEEE/ACM International Workshop on Software Fairness (FairWare), 2018, pp. 8-14, doi: 10.1145/3194770.3194777.(https://ieeexplore.ieee.org/document/8452914)
-
 
 ## 14. Don’t Do That! Hunting Down Visual Design Smells in Complex UIs Against Design Guidelines
 B. Yang, Z. Xing, X. Xia, C. Chen, D. Ye and S. Li, "Don’t Do That! Hunting Down Visual Design Smells in Complex UIs Against Design Guidelines," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 761-772, doi: 10.1109/ICSE43902.2021.00075.(https://ieeexplore.ieee.org/document/9402139)
 
-
 ## 15. What Helped, and what did not? An Evaluation of the Strategies to Improve Continuous Integration
 X. Jin and F. Servant, "What Helped, and what did not? An Evaluation of the Strategies to Improve Continuous Integration," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 213-225, doi: 10.1109/ICSE43902.2021.00031.(https://ieeexplore.ieee.org/document/9401965)
+
+## 16. Characterizing and Detecting Anti-Patterns in the Logging Code
+B. Chen and Z. M. Jiang, "Characterizing and Detecting Anti-Patterns in the Logging Code," 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE), 2017, pp. 71-81, doi: 10.1109/ICSE.2017.15.(https://ieeexplore.ieee.org/document/7985651)
+
+## 17. Latent Patterns in Activities: A Field Study of How Developers Manage Context
+S. Chattopadhyay, N. Nelson, Y. Ramirez Gonzalez, A. Amelia Leon, R. Pandita and A. Sarma, "Latent Patterns in Activities: A Field Study of How Developers Manage Context," 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), 2019, pp. 373-383, doi: 10.1109/ICSE.2019.00051.(https://ieeexplore.ieee.org/document/8811986)
+
+## 18. Anti-Patterns in Infrastructure as Code
+A. Rahman, "Anti-Patterns in Infrastructure as Code," 2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST), 2018, pp. 434-435, doi: 10.1109/ICST.2018.00057.(https://ieeexplore.ieee.org/document/8367077)
+
+## 19. An Empirical Analysis of UI-Based Flaky Tests
+A. Romano, Z. Song, S. Grandhi, W. Yang and W. Wang, "An Empirical Analysis of UI-Based Flaky Tests," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 1585-1597, doi: 10.1109/ICSE43902.2021.00141.(https://ieeexplore.ieee.org/document/9402129)
