@@ -10,9 +10,9 @@ O estudo indentifica um padrão de dark pattern inconsistente, pois o design ben
 ## 2. Fichamento Bibliográfico 
 
 
-* Nudging (Interação Humano-Computador)  interação entre pessoas e computadores (página 3).
-* Paternalistic bem-estar individual do usuário em escolher a melhor decisão por si (página 3).
-* Dark pattern (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
+* _Nudging_ (Acotovelando) alterar comportamentos de uma maneira previsível, sem limitar o poder de escolha (página 3).
+* _Paternalistic_ (Paternalista) ação que limita a autonomia ou liberdade do usuário (página 3).
+* _Dark pattern_ (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
 
 ## 3. Fichamento de Citações 
 
