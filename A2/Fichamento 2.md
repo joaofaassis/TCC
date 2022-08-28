@@ -5,14 +5,14 @@ G. Lee, "Is there a "software engineering ethics"? Comparing commercial and rese
 ## 1. Fichamento de Conteúdo
 
 
-O artigo tem como objetivo estabelecer se existe um padrão estabelecido de éticas dentro da área de Engenharia de *Software* (SE, do inglês *Software Engineering*). Para essa pesquisa foi selecionado dois domínios distintos nos quais os profissionais operam, sendo empresas de tecnologias americanas e universidades do Reino Unido. Como conclusão da pesquisa, foi sugerido que existem diferentes valores desejados nos trabalhos produzidos em cada organização, o motivo disso é que as políticas de ética nas instituições estudadas não dão muito consideração ao desempenho da SE.
+O artigo tem como objetivo estabelecer se existe um padrão estabelecido em relação a ética dentro da área de Engenharia de *Software* (SE, do inglês *Software Engineering*). Para essa pesquisa foi selecionado dois domínios distintos nos quais os profissionais operam, sendo empresas de tecnologias norte-americanas e universidades do Reino Unido. Como conclusão da pesquisa, foi sugerido que existem diferentes valores desejados nos trabalhos produzidos em cada organização, o motivo disso é que as políticas de ética nas instituições estudadas não dão muito consideração ao uso dessas políticas na área de SE.
 
 ## 2. Fichamento Bibliográfico 
 
 
 * _Codes of ethics_ (Códigos de Ética) são os códigos de éticas que o autor tenta encontrar durante sua pesquisa, para saber se os profissionais de Engenharia de *Software* seguem algum padrão de ética ao desenvolver (página 01).
 * _Software Engineer_ (Engenheiro de *Software*) profissional que atua na área de Engenharia de *Software* (página 01).
-* _Software engineering_ (Engenharia de *Software*) é um processo no qual um grupo de profissionais cria um produto de *Software* que será usado por outro (página 01).
+* _Software engineering_ (Engenharia de *Software*) é um processo no qual um grupo de profissionais cria um produto de *Software* que será usado por outro, que na maioria das vezes é o cliente (página 01).
 
 ## 3. Fichamento de Citações 
 
