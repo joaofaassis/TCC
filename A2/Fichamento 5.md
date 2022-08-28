@@ -1,6 +1,6 @@
-# Dark Patterns: Past, Present, and Future: The evolution of tricky user interfaces
+# UI Dark Patterns and Where to Find Them: A Study on Mobile Applications and User Perception
 
-Arvind Narayanan, Arunesh Mathur, Marshini Chetty, and Mihir Kshirsagar. 2020. "Dark Patterns: Past, Present, and Future: The evolution of tricky user interfaces". Queue 18, 2, Pages 10 (March-April 2020), 26 pages. doi: [10.1145/3400899.3400901] (https://dl.acm.org/doi/10.1145/3400899.3400901).
+Linda Di Geronimo, Larissa Braz, Enrico Fregnan, Fabio Palomba, and Alberto Bacchelli. 2020. "UI Dark Patterns and Where to Find Them: A Study on Mobile Applications and User Perception". In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–14. doi: [10.1145/3313831.3376600] (https://dl.acm.org/doi/10.1145/3313831.3376600).
 
 ## 1. Fichamento de Conteúdo
 
