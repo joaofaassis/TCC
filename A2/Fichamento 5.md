@@ -4,19 +4,18 @@ Linda Di Geronimo, Larissa Braz, Enrico Fregnan, Fabio Palomba, and Alberto Bacc
 
 ## 1. Fichamento de Conteúdo
 
-
-aa
+O artigo apresenta duas pesquisas, sendo a primeira focada em identificar manualmente a presença do *dark pattern* em 240 aplicativos e a segunda pesquisa uma entrevista com 584 usuários com um intuito dos mesmos avaliaram se conseguiam identificara presença de algum tipo de *anti-pattern* ou *dark pattern*. O primeiro estudo realiza os testes no ambiente operacional android, os pesquisadores coletaram capturas de tela de seguimentos de página para identificar possíveis ações maliciosas como click em um botão de *download* abrir um anúncio inesperado. O processo de pesquisa possui vários passos ate obter o máximo de abrangência possível, concluindo que entre os aplicativos estudados 95% um ou mais dark parttens em sua interface. O segundo estudo foi baseado no primeiro, sendo analisado que 55% dos usuários não detectaram nenhum tipo de design malicioso, 20% não tinham certeza e 25% encontarram um design malicioso. No geral, 86% dos usuários não conseguiu identificar um tipo de design pattern.
 
 ## 2. Fichamento Bibliográfico 
 
 
-* HCI Human–Computer Interaction (Interação Humano-Computador)  interação entre pessoas e computadores (página 1).
-* Individual Autonomy (Autonomia Individual) bem-estar individual do usuário em escolher a melhor decisão por si (página 12).
-* Dark pattern (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
+* Mobile Apps (aplicativo mobile) software desenvolvido para dispositivos móveis e portáteis (página 1).
+* Ethical Design (Design ético) valores das respectivas organizações para construção das hipóteses de design, levando em consideração essencialmente as pessoas que se beneficiarão destas soluções. (página 2).
+* Dark pattern (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 1).
 
 ## 3. Fichamento de Citações 
 
 
-* "A dark pattern that infringes on individual autonomy might modify choice architecture in a way that causes users to make choices that they would not have otherwise selected absent the modified choice architecture"
-* "The choices that benefit the service are feature prominently while the options that benefit the user are typically tucked away behind several clicks or are obscured from view by varying the style and position of the choice"
-* "Dark patterns that are deceptive or information hiding influence user decisions by manipulating the information that is available to to users."
+* "In the control task, 86% of users were able to recognize that the app had no Dark Patterns."
+* "95% of the considered apps include one or more forms of Dark Patterns. "
+* " designers can take advantage of the concrete set of Dark Patterns and their prevalence as a basis to increase awareness around the problem, as well as extend their knowledge on principles of ethical design."
