@@ -5,18 +5,18 @@ Luiz Adolpho Baroni, Alisson Andrey Puska, Luciana Cardoso de Castro Salgado, an
 ## 1. Fichamento de Conteúdo
 
 
-aa
+O artigo discute e pesquisa 
 
 ## 2. Fichamento Bibliográfico 
 
 
-* HCI Human–Computer Interaction (Interação Humano-Computador)  interação entre pessoas e computadores (página 1).
-* Individual Autonomy (Autonomia Individual) bem-estar individual do usuário em escolher a melhor decisão por si (página 12).
-* Dark pattern (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
+* _General Data Protection Regulation_ (Regulamento Geral sobre a Proteção de Dados) é um regulamento do direito europeu sobre privacidade e proteção de dados pessoais, aplicável a todos os indivíduos na União Europeia e Espaço Económico Europeu que foi criado em 2018 (página 1).
+* _Individual Autonomy_ (Autonomia Individual) bem-estar individual do usuário em escolher a melhor decisão por si (página 1).
+* _Virtual World_ (Mundo virtual) é um ambiente imersivo simulado através de recursos computacionais (página 2).
 
 ## 3. Fichamento de Citações 
 
 
-* "A dark pattern that infringes on individual autonomy might modify choice architecture in a way that causes users to make choices that they would not have otherwise selected absent the modified choice architecture"
-* "The choices that benefit the service are feature prominently while the options that benefit the user are typically tucked away behind several clicks or are obscured from view by varying the style and position of the choice"
-* "Dark patterns that are deceptive or information hiding influence user decisions by manipulating the information that is available to to users."
+* _"Dark patterns can cause annoyance, frus-tration, anger, and other emotions in users."_
+* _"Dark patterns are built to inuence users’ behaviors to benetinterested parties other than users themselves."_
+* _"In other situations, the option to delete accounts exists but ishidden under many menu levels with non-intuitive names thatmake users give up."_
