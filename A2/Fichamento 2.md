@@ -5,7 +5,7 @@ G. Lee, "Is there a "software engineering ethics"? Comparing commercial and rese
 ## 1. Fichamento de Conteúdo
 
 
-O artigo tem como objetivo estabelecer se existe um padrão estabelecido em relação a ética dentro da área de Engenharia de *Software* (SE, do inglês *Software Engineering*). Para essa pesquisa foi selecionado dois domínios distintos nos quais os profissionais operam, sendo empresas de tecnologias norte-americanas e universidades do Reino Unido. Como conclusão da pesquisa, foi sugerido que existem diferentes valores desejados nos trabalhos produzidos em cada organização, o motivo disso é que as políticas de ética nas instituições estudadas não dão muito consideração ao uso dessas políticas na área de SE.
+O artigo tem como objetivo estabelecer se existe um padrão estabelecido em relação a ética dentro da área de Engenharia de *Software* (SE, do inglês *Software Engineering*). Para essa pesquisa foi selecionado dois domínios distintos nos quais os profissionais operam, sendo empresas de tecnologias norte-americanas e universidades do Reino Unido. Como conclusão da pesquisa, foi sugerido que existem diferentes valores desejados nos trabalhos produzidos em cada organização, o motivo disso é que as políticas de ética nas instituições estudadas não dão consideração ao uso dessas políticas na área de SE.
 
 ## 2. Fichamento Bibliográfico 
 
@@ -18,5 +18,5 @@ O artigo tem como objetivo estabelecer se existe um padrão estabelecido em rela
 
 
 * _"Software engineering is a process in which one group of people create a software product that will be used by another, potentially different, group of people"_
-* _"Codes of ethics were found for five organisations in the American technology companies category: Amazon Inc., Microsoft Inc., Google Inc., Netflix Inc. and Apple Inc."_
-* _"Software engineers in these organisations may have other sources of ethical imperatives, such as internal documents shared on corporate intranets or normative behaviours transmitted culturally within their teams."_
+* _"Codes of ethics were found for five organizations in the American technology companies category: Amazon Inc., Microsoft Inc., Google Inc., Netflix Inc. and Apple Inc."_
+* _"Software engineers in these organizations may have other sources of ethical imperatives, such as internal documents shared on corporate intranets or normative behaviors transmitted culturally within their teams."_
