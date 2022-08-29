@@ -10,9 +10,9 @@ O artigo caracteriza como a ética é aplicada dentro da Engenharia de *Software
 ## 2. Fichamento Bibliográfico 
 
 
-* _Articulation_ (Articulação) etapa onde é feito a elicitação, modelagem e analise dos valores éticos, que podemos chamar também de requisitos éticos para artefatos de *Software* e seus processos de desenvolvimento (página 03).
+* _Articulation_ (Articulação) etapa onde é feito a elicitação, modelagem e análise dos valores éticos, que podemos chamar também de requisitos éticos para artefatos de *Software* e seus processos de desenvolvimento (página 03).
 * _Specification_ (Especificação) etapa onde é feita a atividade de preencher a lacuna entre os requisitos éticos e os requisitos funcionais, sendo assim requer um conhecimento da disciplina de ética para SE (página 04).
-* _Implementation_ (Implementação) do ponto de vista da ética consciente o ato de implementar não se refere apenas à escrita do código e documentos, mas tambem à construção de processos de desenvolvimento de *Software* com base na especificação ética (página 04).
+* _Implementation_ (Implementação) do ponto de vista da ética consciente o ato de implementar não se refere apenas à escrita do código e documentos, mas também à construção de processos de desenvolvimento de *Software* com base na especificação ética (página 04).
 * _Verification_ (Verificação) nessa etapa as organizações devem verificar continuamente se o desenvolvimento do *Software* está alinhado com as especificações éticas (página 04).
 * _Validation_ (Validação) como o próprio nome já diz, serve para validar se o artefato de *Software* e o desenvolvimento possuem os requisitos éticos impostos pelos *stakeholders* no início do processo (página 04).
 
