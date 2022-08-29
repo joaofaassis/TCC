@@ -5,18 +5,18 @@ Arunesh Mathur, Mihir Kshirsagar, and Jonathan Mayer. 2021. "What Makes a Dark P
 ## 1. Fichamento de Conteúdo
 
 
-O artigo retrata o crescimento da utilização dos *Dark Patterns* e que trabalhos recentes vieram documentando e categorizando essas utilizações. Dentro do artigo, o autor trata sobre o que faz uma interface ser considerada um *Dark Pattern* e por que certos *designs* são problematicos para os usuários e a sociedade, com isso eles revisaram trabalhos recentes sobre e demonstraram que na literatura não existe reflexões sobre uma possível preocupação ou definição em relação aos *Dark Patterns*, mas sim um conjunto de considerações.
+O artigo retrata o crescimento da utilização dos *Dark Patterns* e que trabalhos recentes vieram documentando e categorizando essas utilizações. Dentro do artigo, o autor trata sobre o que faz uma interface ser considerada um *Dark Pattern* e por que certos *designs* são problemáticos para os usuários e a sociedade, com isso eles revisaram trabalhos recentes sobre e demonstraram que na literatura não existe reflexões sobre uma possível preocupação ou definição em relação aos *Dark Patterns*, mas sim um conjunto de considerações.
 
 ## 2. Fichamento Bibliográfico 
 
 
-* HCI Human–Computer Interaction (Interação Humano-Computador)  interação entre pessoas e computadores (página 1).
-* Individual Autonomy (Autonomia Individual) bem-estar individual do usuário em escolher a melhor decisão por si (página 12).
-* Dark pattern (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
+* _HCI Human–Computer Interaction_ (IHC Interação Humano-Computador)  interação entre pessoas e computadores (página 1).
+* _Individual Autonomy_ (Autonomia Individual) bem-estar individual do usuário em escolher a melhor decisão por si (página 12).
+* _Dark Pattern_ (Padrão escuro) direcionamentos intencionais, para que o usuário faça algo que não faria naturalmente (página 2).
 
 ## 3. Fichamento de Citações 
 
 
-* "A dark pattern that infringes on individual autonomy might modify choice architecture in a way that causes users to make choices that they would not have otherwise selected absent the modified choice architecture"
-* "The choices that benefit the service are feature prominently while the options that benefit the user are typically tucked away behind several clicks or are obscured from view by varying the style and position of the choice"
-* "Dark patterns that are deceptive or information hiding influence user decisions by manipulating the information that is available to to users."
+* _"A dark pattern that infringes on individual autonomy might modify choice architecture in a way that causes users to make choices that they would not have otherwise selected absent the modified choice architecture"_
+* _"The choices that benefit the service are feature prominently while the options that benefit the user are typically tucked away behind several clicks or are obscured from view by varying the style and position of the choice"_
+* _"Dark patterns that are deceptive or information hiding influence user decisions by manipulating the information that is available to users."_
